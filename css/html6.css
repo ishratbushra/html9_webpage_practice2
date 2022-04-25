@@ -1,0 +1,37 @@
+#b1 {
+    background-image: url("../images/daisy.jpg" );
+    background-repeat: repeat;
+  }
+  #table1 {
+    width: 80%;
+    border: 2px dotted rgb(0, 0, 0);
+}
+
+th,
+td {
+    width: min-content;
+    border: 2px dotted rgb(43, 226, 67);
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+#tm1:hover,
+#tm1:hover {
+    background-color: rgb(229, 255, 0);
+}
+
+#table2,
+#n1 {
+    width: 80%;
+    border: 2px dashed rgb(17, 0, 253);
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+.container1 {
+  min-height: 100px;
+  text-align: center;
+  border-color: rgb(30, 255, 0);
+  color: black;
+  border-style: solid;
+  overflow: hidden;
+}

@@ -1,0 +1,133 @@
+/* universal selector */
+* {
+    text-align: center;
+    
+  }
+/* body */
+body {
+    background-color: rgb(128, 223, 255);
+    background-image: url("../images/daisy.jpg" );
+    background-repeat: repeat;
+  }
+/*paragraph*/
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .div1 {
+    height: 800px;
+    color: rgb(0, 255, 55);
+    background-color: rgb(255, 255, 255);
+    padding: 25px 50px 75px 100px;
+  }
+.div2 {
+
+    border: 10px outset rgb(255, 0, 255);
+    background-color: rgb(17, 0, 253);
+    opacity: 0.3;
+    margin: 50px 50px 80px 150px;
+    padding: 25px 50px 75px 100px;
+  }
+  .boxmodel {
+    overflow-x:auto;
+    color: rgb(0, 0, 0);
+    background-color: lightgrey;
+    outline-style: double;
+    outline-color:red ;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  #i1 {
+    text-decoration-line: overline;
+  }
+  
+  #i2 {
+    text-decoration-line: line-through;
+  }
+  
+  #i3 {
+    text-decoration-line: underline;
+  }
+  
+  #i4 {
+    text-decoration-line: overline underline;
+  }
+  #i5 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+  /* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  ul.a {
+    list-style-type: circle;
+  }
+  
+  ul.b {
+    list-style-type: square;
+  }
+  
+  ol.c {
+    list-style-type: upper-roman;
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha;
+  }
+  #table1 {
+    width: 80%;
+    border: 2px dotted rgb(0, 0, 0);
+}
+tr:nth-child(even) {background-color: #ffafaf;}
+th,
+td {
+    width: min-content;
+    border: 2px dotted rgb(43, 226, 67);
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+#tm1:hover,
+#tm1:hover {
+    background-color: rgb(229, 255, 0);
+}
+
+#table2,
+#n1 {
+    width: 80%;
+    border: 2px dashed rgb(17, 0, 253);
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+h1.hidden {
+    display: none;
+  }
+  .test1 {
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+  }
+  
+  .test2 {
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+  }

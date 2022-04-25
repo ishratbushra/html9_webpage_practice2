@@ -1,0 +1,42 @@
+table {
+    
+    border: 1px solid black;
+    text-align: center;
+    font-family: Verdana;
+    border-spacing: 0.2cm 0.2cm;
+}
+
+td,th {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#t1{
+    text-align:left;
+    padding-right:150;
+}
+#t2{
+    height:100%;
+    text-align:left;
+}
+#t3{
+    
+    text-align:left;
+}
+#t4{
+    height:100%;
+}
+.div1 {
+    border: 5px outset rgb(68, 124, 228);
+    background-color: rgb(243, 248, 250);
+    text-align: center;
+    width:fit-content;;
+   height: fit-content;
+  }
+  .div2 {
+    border: 5px outset rgb(68, 124, 228);
+    background-color: rgb(243, 248, 250);
+    text-align: center;
+    width:fit-content;;
+   height: fit-content;
+  }

@@ -1,0 +1,60 @@
+#s1 {
+    fill: lime;
+    stroke: purple;
+    stroke-width: 5;
+    fill-rule: evenodd;
+}
+
+#hh1 {
+    display: inline;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+#hh2 {
+    display: block;
+    border: 1px solid rgb(238, 13, 24);
+    background-color: rgb(19, 228, 81);
+}
+
+#hh3 {
+    display: inline-block;
+    border: 1px solid rgb(252, 31, 185);
+    background-color: rgb(85, 65, 71);
+}
+
+.dd1 {
+    border: 5px solid rgb(252, 31, 185);
+    background-color: rgb(85, 65, 71);
+}
+
+#p1 {
+    color: blueviolet;
+    margin: 50px 100px;
+}
+
+#tab1 {
+    margin: 100px 50px 80px 150px;
+    color: white;
+    border: 5px solid wheat;
+}
+
+#td1 {
+    padding: 50px 25px 80px 15px;
+    color: white;
+}
+.box{
+    width: 300px;
+  border: 15px solid rgb(185, 133, 172);
+  padding: 50px 25px 80px 15px;
+  margin: 100px 50px 80px 150px;
+}
+#boxp
+{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.c1,.c2,.c3
+{   text-align: center;
+    color:black;
+}

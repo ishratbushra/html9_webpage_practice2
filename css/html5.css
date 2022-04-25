@@ -1,0 +1,664 @@
+.header {
+    min-height: 20px;
+    text-align: center;
+    border-color: aqua;
+    color: black;
+    background-color: rgb(252, 164, 0);
+    border-style: solid;
+}
+
+.container1 {
+    min-height: 100px;
+    text-align: center;
+    border-color: rgb(30, 255, 0);
+    color: black;
+    border-style: solid;
+    overflow: hidden;
+}
+
+.content1 {
+    min-height: 100px;
+    width: 30%;
+    text-align: center;
+
+    background-color: blueviolet;
+    color: black;
+
+    float: left;
+}
+
+.content2 {
+    min-height: 100px;
+    width: 70%;
+    text-align: center;
+
+    background-color: rgb(193, 164, 221);
+    color: black;
+
+    float: right;
+
+}
+
+.container2 {
+    min-height: 100px;
+    text-align: center;
+    border-color: rgb(0, 225, 255);
+    color: black;
+    border-style: solid;
+    overflow: hidden;
+}
+
+.content11 {
+    min-height: 100px;
+    width: 33.33%;
+    text-align: center;
+
+    background-color: rgb(226, 43, 226);
+    color: black;
+
+    float: left;
+}
+
+.content12 {
+    min-height: 100px;
+    width: 33.33%;
+    text-align: center;
+
+    background-color: rgb(236, 165, 219);
+    color: black;
+
+    float: left;
+
+}
+
+.content13 {
+    min-height: 100px;
+    width: 33.33%;
+    text-align: center;
+
+    background-color: rgb(243, 97, 209);
+    color: black;
+
+    float: left;
+
+}
+
+.footer {
+    min-height: 20px;
+    text-align: center;
+    border-color: aqua;
+    color: black;
+    background-color: rgb(252, 164, 0);
+    border-style: solid;
+
+}
+
+.containerlayout1 {
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    overflow: hidden;
+    padding: 25px 25px;
+    width: 90%;
+
+}
+
+.header1 {
+    min-height: 65px;
+    font-size: 65px;
+    text-align: left;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-left: 15px;
+
+}
+
+.navigation1 {
+    min-height: 30px;
+    font-size: 30px;
+    text-align: center;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+}
+
+.banner1 {
+    min-height: 80px;
+    font-size: 40px;
+    text-align: center;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-top: 15px;
+
+}
+
+.container1a {
+    min-height: 500px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    overflow: hidden;
+}
+
+.content1a {
+    height: 500px;
+    width: 29%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 300px;
+
+}
+
+.content2a {
+    min-height: 500px;
+    width: 69%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: right;
+    padding-top: 300px;
+
+}
+
+
+.footer1 {
+    min-height: 15px;
+    font-size: 50px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+
+}
+
+
+
+.containerlayout2 {
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    overflow: hidden;
+    padding: 25px 25px;
+    width: 90%;
+
+}
+
+.header2 {
+    min-height: 50px;
+    font-size: 50px;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+
+}
+
+#s1 {
+    text-align: left;
+    padding-right: 600px;
+}
+
+#s2 {
+    text-align: right;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.banner2 {
+    min-height: 95px;
+    font-size: 40px;
+    text-align: center;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-top: 35px;
+
+}
+
+.textarea {
+    min-height: 80px;
+    font-size: 30px;
+    text-align: center;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-top: 35px;
+}
+
+.container1b {
+    min-height: 500px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    overflow: hidden;
+}
+
+.content1b {
+    height: 500px;
+    width: 32%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 300px;
+
+}
+
+.content2b {
+    min-height: 500px;
+    width: 32.3333%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 300px;
+
+}
+
+.content3b {
+    min-height: 500px;
+    width: 34%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 300px;
+
+}
+
+
+.footer2 {
+    min-height: 15px;
+    font-size: 50px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+
+}
+
+
+.containerlayout3 {
+    min-height: 1000px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    overflow: hidden;
+    padding: 25px 25px;
+    width: 90%;
+
+}
+
+.container1b {
+    min-height: 700px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.c1 {
+    min-height: 700px;
+    width: 30%;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.c2 {
+    min-height: 300px;
+    width: 68.5%;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.c3 {
+    min-height: 400px;
+    width: 68.5%;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.containerlayout4 {
+    min-height: 1300px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    overflow: hidden;
+    padding: 25px 35px 10px 35px;
+    width: 90%;
+
+}
+
+.header4 {
+    min-height: 50px;
+    font-size: 50px;
+    border-color: rgb(219, 219, 219);
+    color: black;
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+
+}
+
+#s11 {
+    text-align: left;
+    padding-right: 600px;
+}
+
+#s22 {
+    text-align: right;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.wrapper {
+    min-height: 800px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.w1,
+.w2,
+.w3,
+.w4 {
+    min-height: 200px;
+    width: 24.4%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+}
+
+.container1d {
+    min-height: 300px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    overflow: hidden;
+}
+
+.content1d {
+    height: 300px;
+    width: 32%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 120px;
+
+}
+
+.content2d {
+    min-height: 300px;
+    width: 32.3333%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 120px;
+
+}
+
+.content3d {
+    min-height: 300px;
+    width: 34%;
+    text-align: center;
+    background-color: rgb(136, 131, 122);
+    border-color: rgb(219, 219, 219);
+    border-style: solid;
+    color: black;
+    float: left;
+    padding-top: 120px;
+}
+
+.footer4 {
+
+    min-height: 15px;
+    font-size: 50px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    border-color: rgb(219, 219, 219);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+}
+
+
+
+.containerlayout5 {
+    min-height: 1000px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    overflow: hidden;
+    padding: 25px 35px 10px 35px;
+    width: 90%;
+
+}
+
+.header5 {
+    min-height: 40px;
+    font-size: 50px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+
+.footer5,
+.header5a {
+    min-height: 180px;
+    font-size: 50px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    padding-top: 110px;
+    padding-bottom: 50px;
+    margin-top: 40px;
+}
+
+.wrapper5 {
+    min-height: 200px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.wrap1 {
+    min-height: 100px;
+    width: 24.4%;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.wrapper5b {
+    min-height: 800px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.wrap2 {
+    min-height: 660px;
+    width: 68.5%;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.wrap3 {
+    min-height: 250px;
+    width: 30%;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.wrap4 {
+    min-height: 460px;
+    width: 30%;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(136, 131, 122);
+    border-style: solid;
+    color: black;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#table1 {
+    width: 80%;
+    border: 2px dotted blueviolet;
+}
+
+th,
+td {
+    width: min-content;
+    border: 2px dotted blueviolet;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+#tm1:hover,
+#tm1:hover {
+    background-color: rgb(219, 130, 130);
+}
+
+#table2,
+#n1 {
+    width: 80%;
+    border: 2px dashed rgb(253, 135, 0);
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+#n1:hover {
+    background-color: rgb(146, 215, 255);
+}
+
+
+
+h1 {
+    color: black;
+
+}
+
+
+input[type=submit] {
+    background-color: rgb(29, 160, 29);
+    color: rgb(0, 0, 0);
+    border: none;
+    font-weight: bold;
+    padding: 4px 10px;
+    border-radius: 4px;
+    
+
+}
+
+.div1 {
+    border: 5px outset black;
+    position: absolute;
+
+
+}
+
+
+caption {
+    padding-bottom: 15px;
+    text-align:justify;
+    margin-left: 8px;
+    padding-top: 3px;
+    font-size: 30px;
+}
+
+#f1 {
+    border-collapse: collapse;
+    border:none;
+    width: 500px;
+}
+
+#f2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border:none;
+}
+#tt1{
+    border:none;
+    text-align: left;
+}
